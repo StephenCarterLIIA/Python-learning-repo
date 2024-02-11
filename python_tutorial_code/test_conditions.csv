@@ -1,0 +1,6 @@
+column_a,column_b,column_c,column_dates,column_gender
+361,361,same values,2024-01-12,M
+254,864,different values,2024-02-11,F
+643,,b is blank,2024-01-01,M
+,,both are blank,,
+789,"",b is empty string,,U
